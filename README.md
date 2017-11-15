@@ -71,12 +71,12 @@ As we see here, United States being a developed country has 0 paid vacation days
 ![image5](https://user-images.githubusercontent.com/32077698/32859492-83a20884-ca03-11e7-8bd1-1dd6dce607a1.png)
 
 #### Metrics 3: More Public holidays in Developing countries
-![image6](https://user-images.githubusercontent.com/32077698/32859493-84046650-ca03-11e7-807d-487f2dd894b7.png)
-
 For the developing countries, the statistics are totally opposite, the number of public holidays are more as compared to paid holidays. 
 Geberally speaking, People take public holidays for granted but if they get good paid vacations from their employers, that actually makes them more happy. Since, developing countries have less paid vacations allowed, their happiness score is less. One reason behind this could be their weak economy, which does not allow them to provide their employees with more number of paid vacations.
 
-#### The two contrasting versions:
+![image6](https://user-images.githubusercontent.com/32077698/32859493-84046650-ca03-11e7-807d-487f2dd894b7.png)
+
+## The two contrasting versions:
 ### More public holidays does not mean more happiness!
 ![image7](https://user-images.githubusercontent.com/32077698/32859494-84306638-ca03-11e7-911e-dccc8cff7fb3.png)
 
