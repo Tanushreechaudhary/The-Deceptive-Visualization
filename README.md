@@ -37,28 +37,34 @@ Though every government would want their citizens to be happy by granting good n
 ---
 
 ## "Making of" the Project:
-### * Data Analysis:
+### 1. Data Analysis:
 While analyzing, I exported the data from the original visualization in the tableau and tried to visualize the data and understand the pattern it was showing. I have put the happiness score for each country in the map view as shown in the first visualization below, as presenting it using a bar chart would make it too crowded and difficult to read. This helped me to see the overall picture, how the happiness score changed over the world. <br />
 
 The second visualization shows Public holidays around the world. 
 
 In the first Visualization, It shows that countries like Norway, Australia, USA, Sweden have very good happiness score while countries like India, Colombia, Bangladesh, Thailand have low happiness score. In the second Visualization, countries like India, Colombia, Thailand have lots of public holidays while Norway, Sweden, Australia have less public holidays. Because of this pattern, I segregated these countries into Developed and Developing countries. Countries with good happiness score and less public holidays were the Developed nations and countries with low happiness score and more public holidays were developing nations. So, in the first Iteration I would be presenting statistics based on this division.
 
-### * Data Wrangling:
+### 2. Data Wrangling:
 The data sets I have used did not require much cleaning, just had to drop some columns that did not provide any relevant information and remove the nulls. Since, I downloaded data from multiple sources, so I integrated the data sets into one csv file which provided information about Happiness score, productivity score, Public holidays and paid holidays per country. <br />
 Here is the link to the Jupyter notebook:
 
 
-### * Visualizations showing metrics:
+### 3. Visualizations showing metrics:
 #### Metrics 1: Public and Paid holidays in Developed countries
 
 
-I divided the countries as Developed and Developing because it would be easy to analyze the data this way and it will not become too crowded. In the visualization below, I am presenting metrics about public and Paid holidays in Developed countries. When we saw the map showing holidays around the world, the developed countries were on a lighter scale that is because they were considering the public holidays only. Now, when we compare the paid and public holidays, we see that the developed countries have more number of paid holidays. Due to this reason, they have good happiness score. The reason being, why would not anyone be happy if they are provided with good number of paid vacation allowance.
+I divided the countries as Developed and Developing because it would be easy to analyze the data this way and it will not become too crowded. In the visualization below, I am presenting metrics about public and paid holidays in Developed countries. When we saw the map showing holidays around the world, the developed countries were on a lighter scale that is because they were considering the public holidays only. Now, when we compare the paid and public holidays, we see that the developed countries have more number of paid holidays. Due to this reason, they have good happiness score. The reason being, why would not anyone be happy if they are provided with good number of paid vacation allowance.
+
+As we see here, United States being a developed country has 0 paid vacation days as there is no statutory minimum paid vacation holidays. It is left to the employers to offer paid vacation. According to the US Bureau of Labor Statistics, full-time employees earn on average 10 vacation days after one year of service, 14 days after 5 years, 17 days after 10 years, and 20 days after 20 years. So, United States is identified as an outlier here because all other countries have defined paid vacation days, so will be taking out this outliers in the below visualization.
+
 
 #### Metrics 2: Public and Paid holidays in Developing countries
 
 
+For the developing countries, the statistics are totally opposite, the number of public holidays are more as compared to paid holidays. 
+Geberally speaking, People take public holidays for granted but if they get good paid vacations from their employers, that actually makes them more happy. Since, developing countries have less paid vacations allowed, their happiness score is less. One reason behind this could be their weak economy, which does not allow them to provide their employees with more number of paid vacations.
 
+#### Metrics 3: The two contrasting versions
 
 
 
