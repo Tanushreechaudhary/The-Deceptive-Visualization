@@ -1,4 +1,4 @@
-# The Pursuit of Happiness!
+# The Deceptive Project - Does more holidays mean more happiness?
 
 ## Project Statement: 
 Why this topic? Since most of us spend a great deal of our lives working, it is inevitable that holidays play a key role in shaping our levels of happiness. Subjective wellbeing – often loosely referred to as happiness – can be measured along multiple dimensions, but here I am focussing on the affect of holidays on a country's happiness. By looking at the data, I realized that countries that rank high in terms of productivity are more happier. So, it would be really interesting to monitor these factors and analyzing the reasons behind a high or low happiness score.
@@ -96,7 +96,7 @@ The Visualization above shows a list of developed and developing countries and t
 ---
 
 ## Conclusion: 
-#### In this project, we have focussed on the role of public and paid holidays in shaping a country's happiness. We observed that, countries with more paid holidays are performing good on happiness score as compared to more public holidays. Hence, governments of developing countries can take a note that if they want to make their citizens happy and productive, they should be offering more paid holidays per year.
+#### In this project, we have focussed on the role of public and paid holidays in shaping a country's happiness. We observed that, countries with more paid holidays are performing good on happiness score as compared to more public holidays. Hence, governments of developing countries can take a note that if they want to make their citizens happy and productive, they should be offering more paid holidays per year. Because being happy is not just a personal matter, it's also an economic one!
 
 
 
