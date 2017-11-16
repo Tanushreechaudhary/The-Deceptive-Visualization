@@ -1,4 +1,4 @@
-# The Deceptive Project - Does more holidays mean more happiness?
+# Does having a lot of holidays lead to a happier country?
 
 ## Project Statement: 
 Why this topic? Since most of us spend a great deal of our lives working, it is inevitable that holidays play a key role in shaping our levels of happiness. Subjective wellbeing – often loosely referred to as happiness – can be measured along multiple dimensions, but here I am focussing on the affect of holidays on a country's happiness. By looking at the data, I realized that countries that rank high in terms of productivity are more happier. So, it would be really interesting to monitor these factors and analyzing the reasons behind a high or low happiness score.
@@ -102,20 +102,17 @@ We have a rebuttal here for two countries, which behaves differently from the cl
 The Visualization above shows a list of developed and developing countries and the number of paid vacation days and public holidays allowed in that particular country plotted on a dual axis chart. Below that is a line graph showing the happiness scores for those countries. I have shown the graph in decreasing order of the paid holidays which means that countries with more paid vacations are in the front and these are all developed countries. When we move towards the end, the paid holidays are becoming less and public holidays are more. But at the same time when we look at the happiness score, The graph is pretty stable for developed countries at an average of 7.0, while for developing countries it is fluctuating and dropping. This helps us to conclude that happiness of a country mostly depends on the paid holidays rather than public holidays.
 
 #### Link to Tableau public:
-
+https://public.tableau.com/profile/tanushree3514#!/vizhome/Morepaidholidaysmeanmorehappiness/Dashboard1
 ---
 
 ## Conclusion: 
-#### In this project, we have focussed on the role of public and paid holidays in shaping a country's happiness. We observed that, countries with more paid holidays are performing good on happiness score as compared to more public holidays. Hence, governments of developing countries can take a note that if they want to make their citizens happy and productive, they should be offering more paid holidays per year. Because being happy is not just a personal matter, it's also an economic one!
+In this project, we have focussed on the role of public and paid holidays in shaping a country's happiness. We observed that, countries with more paid holidays are performing good on happiness score as compared to more public holidays. Hence, governments of developing countries can take a note that if they want to make their citizens happy and productive, they should be offering more paid holidays per year. Because being happy is not just a personal matter, it's also an economic one!
 
-
-
-
-
-
-
-
-
-
+### References:
+http://www.telegraph.co.uk/travel/maps-and-graphics/mapped-the-countries-that-have-the-most-bank-holidays/ <br />
+http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/HR17.pdf <br />
+https://www.newsday.com/news/world/world-happiness-report-2017-see-the-world-s-17-happiest-countries-1.13312549 <br />
+http://www3.weforum.org/docs/GCR2017-2018/05FullReport/TheGlobalCompetitivenessReport2017%E2%80%932018.pdf <br />
+https://hbr.org/2017/03/does-work-make-you-happy-evidence-from-the-world-happiness-report <br />
 
 
