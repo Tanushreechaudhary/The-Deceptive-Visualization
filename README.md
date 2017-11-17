@@ -104,6 +104,9 @@ The Visualization above shows a list of developed and developing countries and t
 ## Link to Tableau public:
 https://public.tableau.com/profile/tanushree3514#!/vizhome/Morepaidholidaysmeanmorehappiness/Dashboard1
 
+## Link to Showcase Video:
+https://drive.google.com/a/scu.edu/file/d/1vDZbvELP3_2z7FEm9QSobh_DiVYNLPWC/view?usp=sharing
+
 ---
 
 ## Conclusion: 
