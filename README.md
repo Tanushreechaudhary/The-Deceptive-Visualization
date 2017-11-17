@@ -114,11 +114,21 @@ https://drive.google.com/a/scu.edu/file/d/1vDZbvELP3_2z7FEm9QSobh_DiVYNLPWC/view
 ## Conclusion: 
 In this project, we have focussed on the role of public and paid holidays in shaping a country's happiness. We observed that, countries with more paid holidays are performing good on happiness score as compared to more public holidays. Hence, governments of developing countries can take a note that if they want to make their citizens happy and productive, they should be offering more paid holidays per year. Because being happy is not just a personal matter, it's also an economic one!
 
+## Assumptions:
+While determining the happiness of a country, there could be many factors like Compensation, freedom, Family, GDP but here for the sake of the project, I have assumed that holidays play the most significant role in the happiness of a country, be it public holidays or paid vacations.
+
+## Roadmap for future enhancements:
+* Can explore the "What if" scenarios for situational awareness.
+* It would be interesting to observe the statistics related to happiness and productivity for one country like United States and analyze the reasons behind the score.
+* Get more data about factors affecting happiness score like freedom, life expectancy, family etc. 
+
+
 ## References:
 http://www.telegraph.co.uk/travel/maps-and-graphics/mapped-the-countries-that-have-the-most-bank-holidays/ <br />
 http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/HR17.pdf <br />
 https://www.newsday.com/news/world/world-happiness-report-2017-see-the-world-s-17-happiest-countries-1.13312549 <br />
 http://www3.weforum.org/docs/GCR2017-2018/05FullReport/TheGlobalCompetitivenessReport2017%E2%80%932018.pdf <br />
 https://hbr.org/2017/03/does-work-make-you-happy-evidence-from-the-world-happiness-report <br />
-
+https://en.wikipedia.org/wiki/Developed_country
+https://en.wikipedia.org/wiki/Developing_country
 
