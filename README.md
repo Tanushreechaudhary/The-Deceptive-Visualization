@@ -129,6 +129,6 @@ http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/HR17.pdf <br />
 https://www.newsday.com/news/world/world-happiness-report-2017-see-the-world-s-17-happiest-countries-1.13312549 <br />
 http://www3.weforum.org/docs/GCR2017-2018/05FullReport/TheGlobalCompetitivenessReport2017%E2%80%932018.pdf <br />
 https://hbr.org/2017/03/does-work-make-you-happy-evidence-from-the-world-happiness-report <br />
-https://en.wikipedia.org/wiki/Developed_country
+https://en.wikipedia.org/wiki/Developed_country <br />
 https://en.wikipedia.org/wiki/Developing_country
 
