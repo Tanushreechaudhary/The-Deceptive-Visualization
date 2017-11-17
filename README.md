@@ -51,6 +51,8 @@ The second visualization shows Public holidays around the world.
 In the first Visualization, It shows that countries like Norway, Australia, USA, Sweden have very good happiness score while countries like India, Colombia, Bangladesh, Thailand have low happiness score. In the second Visualization, countries like India, Colombia, Thailand have lots of public holidays while Norway, Sweden, Australia have less public holidays. Because of this pattern, I segregated these countries into Developed and Developing countries. Countries with good happiness score and less public holidays were the Developed nations and countries with low happiness score and more public holidays were developing nations. So, in the first Iteration I would be presenting statistics based on this division.
 
 ### 2. Data Wrangling:
+The original visualization showed "More public holidays does not mean more happiness", so I had to develop a deceptive version of it. I researched and found data about the number of paid vacations allowed and plotted it against the countries and observed the happiness score. I realized "More paid holidays mean more happiness" and hence the deceptive version of the original visualization.<br />
+
 The data sets I have used did not require much cleaning, just had to drop some columns that did not provide any relevant information and remove the nulls. Since, I downloaded data from multiple sources, so I integrated the data sets into one csv file which provided information about Happiness score, productivity score, Public holidays and paid holidays per country. <br />
 Here is the link to the Jupyter notebook: <br />
 https://github.com/Tanushreechaudhary/The-Deceptive-Visualization/blob/master/DeceptiveProject_JupyterNotebook.ipynb
